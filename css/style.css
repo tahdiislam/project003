@@ -135,6 +135,24 @@ h1 {
 
 /* footer section starts here */
 
+footer {
+    height: 254px;
+    width: 100%;
+    background-color: #0B0D17;
+    color: #fff;
+    text-align: center;
+}
 
+footer h2 span {
+    color: #DD8644;
+}
+
+footer h2 {
+    padding: 37px 0;
+}
+
+footer p {
+    padding-bottom: 115px;
+}
 
 /* footer section ends here */
