@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.half-width h1 span {
+    color: #FBA24F;
+}
+
+.top-section {
+    display: flex;
+    background-image: url("/images/Group8449.png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 50px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    margin-left: 190px;
+    margin-top: 90px;
+    width: 66%;
+}
+
+.div003 {
+    padding-left: 50px;
+}
+
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(to right, #FC954B, #FE4A2E);
+    padding: 10px 40px;
+    border-radius: 65px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.half-width p {
+    margin-bottom: 50px;
+}
+
+.second-section {
+    background-image: url("/images/Frame57.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 50px;
+    display: flex;
+    margin-bottom: 72px;
+}
+
+.half-width002 {
+    width: 50%;
+}
+
+.half-width002 img {
+    width: 50%;
+    margin-left: 200px;
+    margin-top: 64px;
+}
+
+.div004 {
+    padding: 100px;
+}
+
+.div004 p {
+    margin-bottom: 50px;
+}
+
+/* third section starts here */
+
+.third-section {
+    margin-bottom: 100px;
+}
+
+.recipie-heading {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.recipie-child {
+    display: flex;
+    justify-content: center;
+}
+
+.half-width-003 {
+    width: 50%;
+    padding: 30px 30px 54px 30px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 20px;
+}
+
+.margin-div01 {
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.margin-div02 {
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+.half-width-003 img {
+    width: 550px;
+    height: 380px;
+    border-radius: 20px;
+}
+
+/* third section ends here */
+
+/* fourth section starts here */
+
+.forth-section {
+    display: flex;
+    padding: 64px 165px;
+    margin: 0px 100px 92px 100px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 20px;
+}
+
+.forth-section div {
+    padding: 0px 110px 0px 60px;
+}
+
+/* fourth section ends here */
+
+/* footer section starts here */
+
+
+
+/* footer section ends here */
