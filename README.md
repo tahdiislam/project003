@@ -1,3 +1,1 @@
-# project003
-This is a portfolio project.
-https://tahdiislam.github.io/project003/
+[Open Preview](https://tahdiislam.github.io/project003/)
